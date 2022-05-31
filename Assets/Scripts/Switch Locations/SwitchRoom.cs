@@ -6,7 +6,8 @@ public class SwitchRoom : MonoBehaviour, ISwitch
     public GameObject nextLocation;
     public GameObject sun;
     public GameObject sky;
-    public GameObject switchLocation;
+    public GameObject switchLocation_1;
+    public GameObject switchLocation_2;
     
     public void OnTriggerStay2D(Collider2D other)
     {
@@ -17,7 +18,8 @@ public class SwitchRoom : MonoBehaviour, ISwitch
             nextLocation.SetActive(true);
             sky.SetActive(true);
             sun.SetActive(true);
-            switchLocation.SetActive(true);
+            switchLocation_1.SetActive(true);
+            switchLocation_2.SetActive(true);
         }
     }
 }
