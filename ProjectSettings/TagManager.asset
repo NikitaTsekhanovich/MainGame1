@@ -29,6 +29,8 @@ TagManager:
   - 5kopecks1
   - 5kopecksButton1
   - trader_2
+  - Document2
+  - DocumentButton2
   layers:
   - Default
   - TransparentFX

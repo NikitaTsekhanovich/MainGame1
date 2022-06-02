@@ -1,9 +1,8 @@
+using UnityEngine;
+
 public class QuestManager
 {
     private static QuestManager instance;
-    // проверка на выполнение 
-    // если  тру происходит триггер 
-    // private IQuest[] quests = { new QuestGopnik(), new QuestTrader(), new QuestPoliceman() };
 
     public static QuestManager Instance()
     {
@@ -41,6 +40,11 @@ public class QuestManager
             return true;
         }
         if (nameQuest == "policemanGetCoin3")
+        {
+            return true;
+        }
+
+        if (nameQuest == "getDocument2")
         {
             return true;
         }

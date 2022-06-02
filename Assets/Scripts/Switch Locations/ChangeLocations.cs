@@ -20,23 +20,6 @@ public class ChangeLocations : MonoBehaviour
        }
     }
 
-   //public int levelToLoad;
-
-   // private void Start()
-   // {
-   //     anim = GetComponent<Animator>();
-   // }
-   //
-   // public void FadeToLevel()
-   // {
-   //     anim.SetTrigger("fade");
-   // }
-
-   // public void ChangeLevel()
-   // {
-   //     SceneManager.LoadScene(levelToLoad);
-   // }
-
     public static void ExitGame()
     {
         Debug.Log("Game over");

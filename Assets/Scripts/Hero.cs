@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class Hero : MonoBehaviour
 {
-    //private Vector3 mousePos;
     [SerializeField]
     private float acceleration = 0.5f;
     public static Rigidbody2D hero;
@@ -13,7 +12,6 @@ public class Hero : MonoBehaviour
     {
         anim = GetComponent<Animator>();
         hero = GetComponent<Rigidbody2D>();
-        // Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
     }
 
     void Update()
