@@ -31,6 +31,8 @@ TagManager:
   - trader_2
   - Document2
   - DocumentButton2
+  - knife1
+  - knifeButton1
   layers:
   - Default
   - TransparentFX

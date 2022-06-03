@@ -43,8 +43,11 @@ public class QuestManager
         {
             return true;
         }
-
         if (nameQuest == "getDocument2")
+        {
+            return true;
+        }
+        if (nameQuest == "policemanGetDocument1")
         {
             return true;
         }

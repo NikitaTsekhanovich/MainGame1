@@ -13,20 +13,6 @@ public class QuestTrader : MonoBehaviour, IQuest
     private bool trader2GetCountKey2;
     private bool trader2GetBeer1;
     private int countCoin;
-    //private readonly QuestManager currentQuest;
-
-    // enum nameQuests
-    // {
-    //     
-    // }
-
-    // public enum itemName
-    // {
-    //     item1,
-    //     item2,
-    //     item3,
-    //     item4
-    // }
 
     public void OnTriggerEnter2D(Collider2D other)
     {
@@ -84,7 +70,7 @@ public class QuestTrader : MonoBehaviour, IQuest
     {
         if (item != null)
         {
-            Instantiate(item, new Vector3(-7.34f, -6.89f, 0.0197f), Quaternion.identity);
+            Instantiate(item, new Vector3(-7f, -6.89f, 0.0197f), Quaternion.identity);
         }
         if (nameItem != null)
         {

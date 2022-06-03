@@ -13,7 +13,7 @@ public class Block : MonoBehaviour
    
    public static void ActiveBlock()
    {
-      if (QuestGopnik.offBlock)
+      if (QuestGopnik.offBlock || QuestPoliceman.offBlock)
       {
          block.SetActive(false);
          quest1.SetActive(false);

@@ -11,7 +11,7 @@ public class SwitchStreet1 : MonoBehaviour, ISwitch
 
     public void OnTriggerStay2D(Collider2D other)
     {
-        var space = Input.GetKeyUp(KeyCode.Space);
+        var space = Input.GetKeyUp(KeyCode.Tab);
         if (space)
         {
             activeLocation.SetActive(false);

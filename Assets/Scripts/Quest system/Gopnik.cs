@@ -25,7 +25,7 @@ public class Gopnik : MonoBehaviour, INPC
             Destroy(GameObject.FindWithTag("trader_2"));
             Instantiate(item1, new Vector3(-7.34f, -6.89f, 0.0197f), Quaternion.identity);
             Instantiate(item2, new Vector3(-7.24f, -6.89f, 0.0197f), Quaternion.identity);
-            Instantiate(item3, new Vector3(-7.34f, -6.99f, 0.0197f), Quaternion.identity);
+            Instantiate(item3, new Vector3(-7.10f, -6.99f, 0.0197f), Quaternion.identity);
         }
     }
 }
