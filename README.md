@@ -8,14 +8,13 @@
 # Игра.
 ![image](https://github.com/NikitaTsekhanovich/MainGame1/assets/92225631/22c872c8-d411-4d2e-8ee7-608ffedf5b33)
 # На данном скриншоте нельзя пройти, если не дать документы персонажу.
-![image](https://github.com/NikitaTsekhanovich/MainGame1/assets/92225631/36d04fb4-4e9e-4ff6-9f97-2d853e370227)
+![image](https://github.com/NikitaTsekhanovich/MainGame1/assets/92225631/f0ed3f0b-28b4-4529-9e95-a1cf4b5bf003)
 ![image](https://github.com/NikitaTsekhanovich/MainGame1/assets/92225631/7ec56704-948f-4e32-94f0-ec18875caf65)
-
 
 # Диалоги.
 ![image](https://github.com/NikitaTsekhanovich/MainGame1/assets/92225631/aa70df6e-76af-4bfb-94fc-c3db806657ca)
 ![image](https://github.com/NikitaTsekhanovich/MainGame1/assets/92225631/00a5cf54-474f-48a9-b031-9e9eb4aab6a8)
-# Несколько веток событий, то есть при разном взаимодейсвии с персонажами будет разный исход.
+# Несколько веток событий, то есть при разном взаимодействии с персонажами будет разный исход.
 ![image](https://github.com/NikitaTsekhanovich/MainGame1/assets/92225631/a812cec5-dbaa-44de-8f24-2d34469575c3)
 
 # Перемещение по разным локациям. 
